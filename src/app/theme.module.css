@@ -1,0 +1,4 @@
+.selectOption[data-checked] {
+  background-color: var(--mantine-primary-color-filled);
+  color: var(--mantine-color-white);
+}
