@@ -1,4 +1,4 @@
-# Smart Sender — Webhooks (тестове завдання Senior Frontend)
+# Webhooks App (тестове завдання Senior Frontend)
 
 Вхід, список вебхуків з пагінацією та пошуком, редагування. API імітується через MSW за контрактом із завдання.
 
